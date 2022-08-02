@@ -23,4 +23,6 @@
 
 <p padding-top="50px">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhesh-cyber&show_icons=true&locale=en" alt="siddhesh-cyber" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhesh-cyber&" alt="siddhesh-cyber" /></p>
+![](https://github-readme-stats.vercel.app/api?username=SIDDHESH-cyber&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SIDDHESH-cyber&theme=great-gatsby&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDHESH-cyber&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
