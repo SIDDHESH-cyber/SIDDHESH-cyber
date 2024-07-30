@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SIDDHESH-cyber/SIDDHESH-cyber](https://github.com/SIDDHESH-cyber/SIDDHESH-cyber)
 
-- 📝 I regularly write articles on [Lauching As Soon As Possible](Lauching As Soon As Possible)
+- 📝 I regularly write articles on Coding [Lauching As Soon As Possible](Lauching As Soon As Possible)
 
 - 📄 Know about my experiences [It's A Secret](It's A Secret)
 
