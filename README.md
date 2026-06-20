@@ -1,15 +1,9 @@
 <h1 align="center">Hey 👋, I'm Siddhesh Patel</h1><br><h3 align="center">Self_Taught</h3>
 <h3 align="center">A passion for Developing and Securing for India.</h3>
 
-- 🌱 I’m currently learning **Python and Java........**
+- 🌱 I’m currently learning **More Around Tech........**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SIDDHESH-cyber/SIDDHESH-cyber](https://github.com/SIDDHESH-cyber/SIDDHESH-cyber)
-
-- 📝 I regularly write articles on Coding [Lauching As Soon As Possible](Lauching As Soon As Possible)
-
-- 📄 Know about my experiences [It's A Secret](It's A Secret)
-
-- ⚡ Fun fact **I Will To Sleep A Lot.**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
